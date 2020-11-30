@@ -4,8 +4,6 @@ This project aims to assess the possibility to use the cloud native services fro
 
 ## Artifact check-list
 
-Details: [Link](http://cTuning.org/ae/submission_extra.html)
-
 * **Algorithm:** Tweet sentiment analysis
 * **Program:** Scikit-Learn, AWS Comprehend, Azure Cognitive service, NLTK
 * **Model:** SentiWordNet, Logistic Regression
